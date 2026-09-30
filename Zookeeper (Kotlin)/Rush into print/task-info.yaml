@@ -1,0 +1,15 @@
+type: edu
+files:
+    -   name: src/Zookeeper.kt
+        visible: true
+        learner_created: false
+    -   name: test/ZookeeperTest.kt
+        learner_created: false
+feedback_link: https://hyperskill.org/projects/196/stages/975/implement#comment
+status: Unchecked
+feedback:
+    message: "Gradle project isn't imported. <a href=\"reload_gradle\">Reload Gradle\
+    \ project</a>. For more information, see <a href=\"https://support.hyperskill.org/hc/en-us/articles/28831366886932-Error-No-test-have-run-in-PyCharm\"\
+    >the Troubleshooting guide</a>"
+    time: "Wed, 30 Sep 2026 18:04:00 UTC"
+record: -1
